@@ -1,0 +1,12 @@
+.size {
+	width: 200px;
+	height: 200px;
+}
+
+.avengers {
+	src: url("img/avengers.jpg");
+}
+
+.not-avengers {
+	src: url("img/not-avengers.jpg");
+}
